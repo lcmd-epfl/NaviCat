@@ -15,7 +15,7 @@ NaviCat is a platform that collects tools for digital catalyst optimization and 
 
 The NaviCat project is funded within the [NCCR Catalysis](https://www.nccr-catalysis.ch/)  of the [Swiss National Science Foundation](https://www.snf.ch/en).
 
-<img src="./images/nccrcat_logo.png" width="100" height="100">
+<img src="./images/nccrcat_logo.png" width="100">
 
 ## Packages [↑](#packages)
 
