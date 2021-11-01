@@ -6,6 +6,7 @@ NaviCat: A platform for catalyst discovery
 ## Contents
 * [About](#about-)
 * [Packages](#packages-)
+* [Databases](#databases-)
 * [Documentation](#documentation-)
 * [Examples](#examples-)
 
@@ -23,6 +24,9 @@ The NaviCat project is funded within the [NCCR Catalysis](https://www.nccr-catal
 * [volcanic](https://github.com/lcmd-epfl/volcanic), an automated tool for volcano plot and activity map building.
 * [EPSim](https://github.com/lcmd-epfl/EPSim), a tool to calculate the  distance to Sabatier's ideal catalyst.
 
+## Databases [↑](#databases)
+
+* [Dipeptide atomic environments](https://atomic-environments-dipeptides.herokuapp.com), a database of dipeptide environments simulated with LKRR.
 
 ## Documentation [↑](#documentation)
 
