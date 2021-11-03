@@ -12,7 +12,7 @@ NaviCat: A platform for catalyst discovery
 
 ## About [↑](#about)
 
-NaviCat is a platform that collects tools for digital catalyst optimization and discovery developed at the [LCMD](https://www.epfl.ch/labs/lcmd/) in EPFL.
+NaviCat is a platform that collects tools for digital catalyst optimization and discovery developed at the [LCMD](https://www.epfl.ch/labs/lcmd/) in EPFL. This hub is currently under construction, hence some of the tools listed may be in development or not currently public yet.
 
 The NaviCat project is funded within the [NCCR Catalysis](https://www.nccr-catalysis.ch/)  of the [Swiss National Science Foundation](https://www.snf.ch/en).
 
@@ -26,7 +26,7 @@ The NaviCat project is funded within the [NCCR Catalysis](https://www.nccr-catal
 
 ## Databases [↑](#databases)
 
-* [Dipeptide atomic environments](https://atomic-environments-dipeptides.herokuapp.com), a database of dipeptide environments simulated with LKRR.
+* [Data mining the C-C cross-coupling genome](https://www.materialscloud.org/discover/ccg#mcloudHeader), a database of C-C cross-coupling transition metal catalysts and their predicted performance for different reactions.
 
 ## Documentation [↑](#documentation)
 
