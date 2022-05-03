@@ -23,15 +23,13 @@ The NaviCat project is funded within the [NCCR Catalysis](https://www.nccr-catal
 * [NaviCatGA](https://github.com/lcmd-epfl/NaviCatGA), a Genetic Algorithm for catalyst optimization.
 * [volcanic](https://github.com/lcmd-epfl/volcanic), an automated tool for volcano plot and activity map building.
 * [EPSim](https://github.com/lcmd-epfl/EPSim), a tool to calculate the  distance to Sabatier's ideal catalyst.
+* [MORESIM](https://github.com/lcmd-epfl/MORESIM), a module to perform replica exchange simulations.
+* [LKR](https://github.com/lcmd-epfl/Local_Kernel_Regression), a step-by-step demonstration of local kernel ridge regression for machine learning applications.
 
 ## Databases [↑](#databases)
 
 * [Data mining the C-C cross-coupling genome](https://www.materialscloud.org/discover/ccg#mcloudHeader), a database of C-C cross-coupling transition metal catalysts and their predicted performance for different reactions.
-
-## Documentation [↑](#documentation)
-
-Work in progress...
-
+* [Reaction representation of organocatalysts](https://github.com/lcmd-epfl/reaction-representation), a database of enantioselective organocatalyzed activation energies and the Jupyter notebooks to train ML models from it.
 
 
 ## Examples [↑](#examples)
