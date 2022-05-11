@@ -9,14 +9,11 @@ NaviCat: A platform for catalyst discovery
 * [Databases](#databases-)
 * [Documentation](#documentation-)
 * [Examples](#examples-)
+* [Acknowledgements](#acknowledgements-)
 
 ## About [↑](#about)
 
 NaviCat is a platform that collects tools for digital catalyst optimization and discovery developed at the [LCMD](https://www.epfl.ch/labs/lcmd/) in EPFL. This hub is currently under construction, hence some of the tools listed may be in development or not currently public yet.
-
-The NaviCat project is funded by [NCCR Catalysis](https://www.nccr-catalysis.ch/)  of the [Swiss National Science Foundation](https://www.snf.ch/en) and by the [European Research Council](https://erc.europa.eu/) (ERC, Grant Agreement No. 817977) within the framework of European Union's H2020.
-
-<img src="./images/nccrcat_logo.png" width="200">   <img src="./images/erc_logo.png" width="120">
 
 ## Packages [↑](#packages)
 
@@ -35,3 +32,9 @@ The NaviCat project is funded by [NCCR Catalysis](https://www.nccr-catalysis.ch/
 ## Examples [↑](#examples)
 
 Will be added as more tools are added to the project.
+
+## Acknowledgements [↑](#contents)
+
+The NaviCat project is funded by [NCCR Catalysis](https://www.nccr-catalysis.ch/)  of the [Swiss National Science Foundation](https://www.snf.ch/en) and by the [European Research Council](https://erc.europa.eu/) (ERC, Grant Agreement No. 817977) within the framework of European Union's H2020.
+
+![ackw logo](./images/ackw.png)
