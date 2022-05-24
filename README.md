@@ -13,7 +13,7 @@ NaviCat: A platform for catalyst discovery
 
 ## About [↑](#about)
 
-NaviCat is a platform that collects tools for digital catalyst optimization and discovery developed at the [LCMD](https://www.epfl.ch/labs/lcmd/) in EPFL. This hub is currently under construction, hence some of the tools listed may be in development or not currently public yet.
+NaviCat is a platform that collects tools and databases for digital catalyst optimization and discovery developed at the [LCMD](https://www.epfl.ch/labs/lcmd/) in EPFL. This hub is currently under construction, hence some of the tools listed may be in development or not currently public yet.
 
 ## Packages [↑](#packages)
 
