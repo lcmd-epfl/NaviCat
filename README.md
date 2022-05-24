@@ -22,7 +22,7 @@ NaviCat is a platform that collects tools and databases for digital catalyst opt
 * [EPSim](https://github.com/lcmd-epfl/EPSim), a tool to calculate the  distance to Sabatier's ideal catalyst.
 * [MORESIM](https://github.com/lcmd-epfl/MORESIM), a module to perform replica exchange simulations.
 * [LKR](https://github.com/lcmd-epfl/Local_Kernel_Regression), a step-by-step demonstration of local kernel ridge regression for machine learning applications.
-* [Reaction representation of organocatalysts](https://github.com/lcmd-epfl/reaction-representation), a step-by-step demonstration of how to generate reaction representations for the prediction of selectivity in enantioselective organocatalysis.
+* [Reaction representation of organocatalysts](https://github.com/lcmd-epfl/reaction-representation), a step-by-step demonstration of how to generate reaction representations for the prediction of selectivity in enantioselective organocatalysis. Includes a database of 754 activation energies.
 
 ## Databases [↑](#databases)
 
