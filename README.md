@@ -9,6 +9,7 @@ NaviCat: A platform for catalyst discovery
 * [Databases](#databases-)
 * [Documentation](#documentation-)
 * [Examples](#examples-)
+* [References](#references-)
 * [Acknowledgements](#acknowledgements-)
 
 ## About [↑](#about)
@@ -27,11 +28,20 @@ NaviCat is a platform that collects tools and databases for digital catalyst opt
 ## Databases [↑](#databases)
 
 * [Data mining the C-C cross-coupling genome](https://www.materialscloud.org/discover/ccg#mcloudHeader), a database of C-C cross-coupling transition metal catalysts and their predicted performance for different reactions.
-
+* [OSCAR](https://archive.materialscloud.org/record/2022.106), an extensive repository of chemically and functionally diverse organocatalysts. Contains thousands of organocatalysts with relevant properties, and can be visualized using [Chemiscope](https://chemiscope.org/). 
 
 ## Examples [↑](#examples)
 
 Will be added as more tools are added to the project.
+
+## References [↑](#contents)
+
+* R. Laplaza, S. Gallarati, and C. Corminboeuf,
+“Genetic Optimization of Homogeneous Catalysts”,
+Chem.- Methods. **2**, e202100107. (2022)
+[![DOI](https://img.shields.io/badge/DOI-10.1002%2Fcmtd.202100107-blue)](https://doi.org/10.1002/cmtd.202100107)
+
+
 
 ## Acknowledgements [↑](#contents)
 
