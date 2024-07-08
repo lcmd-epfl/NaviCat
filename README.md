@@ -48,7 +48,7 @@ Will be added as more tools are added to the project.
 * M. D. Wodrich, M. Chang, S. Gallarati, Ł. Woźniak, N. Cramer, and C. Corminboeuf, "Mapping Catalyst–Solvent Interplay in Competing Carboamination/Cyclopropanation Reactions", Chem. Eur. J. **28**, e202200399 (2022) [![DOI](https://img.shields.io/badge/DOI-10.1002/chem.202200399-blue)](https://doi.org/10.1002/chem.202200399)
 * S. Das, R. Laplaza, J. T. Blaskovits, C. Corminboeuf, "Mapping Active Site Geometry to Activity in Immobilized Frustrated Lewis Pair Catalysts", Angew. Chem. Int. Ed. **61**, e202202727 (2022) [![DOI](https://img.shields.io/badge/DOI-10.1002/anie.202202727-blue)](https://doi.org/10.1002/anie.202202727)
 * S. Gallarati, R. Fabregat, R. Laplaza, S. Bhattacharjee, M. D. Wodrich, and C. Corminboeuf, "Reaction-based machine learning representations for predicting the enantioselectivity of organocatalysts", Chem. Sci. **12**, 6879-6889 (2021) [![DOI](https://img.shields.io/badge/DOI-10.1039/D1SC00482DD-blue)](https://doi.org/10.1039/D1SC00482DD)
-
+* T. Worakul, R. Laplaza, S. Das, M. D. Wodrich, C. Corminboeuf, "Microkinetic Molecular Volcano Plots for Enhanced Catalyst Selectivity and Activity Predictions", ACS Catal. **14**, 9829–9839 (2024) [![DOI](https://img.shields.io/badge/DOI-10.1021%2Facscatal.4c01175-blue)](https://doi.org/10.1021/acscatal.4c01175)
 
 ## Acknowledgements [↑](#contents)
 
