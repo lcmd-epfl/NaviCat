@@ -21,6 +21,7 @@ NaviCat is a platform that collects tools and databases for digital catalyst opt
 * [NaviCatGA](https://github.com/lcmd-epfl/NaviCatGA), a Genetic Algorithm for catalyst optimization.
 * [volcanic](https://github.com/lcmd-epfl/volcanic), an automated tool for volcano plot and activity map building.
 * [mikimo](https://github.com/lcmd-epfl/mikimo), an automated tool for microkinetic volcano plot building.
+* [marc](https://github.com/lcmd-epfl/marc), an automated tool to select representative conformers from a large ensemble.
 * [EPSim](https://github.com/lcmd-epfl/EPSim), a tool to calculate the  distance to Sabatier's ideal catalyst.
 * [MORESIM](https://github.com/lcmd-epfl/MORESIM), a module to perform replica exchange simulations.
 * [LKR](https://github.com/lcmd-epfl/Local_Kernel_Regression), a step-by-step demonstration of local kernel ridge regression for machine learning applications.
