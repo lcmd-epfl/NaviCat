@@ -19,6 +19,7 @@ NaviCat is a platform that collects tools and databases for digital catalyst opt
 ## Packages [↑](#packages)
 
 * [NaviCatGA](https://github.com/lcmd-epfl/NaviCatGA), a Genetic Algorithm for catalyst optimization.
+* [MolCraftDiffusion](https://github.com/lcmd-epfl/MolCraftDiffusion), the unified generative‑AI framework that streamline training the 3D molecular diffusion models to their deployment in data-driven computational chemistry pipelines
 * [volcanic](https://github.com/lcmd-epfl/volcanic), an automated tool for volcano plot and activity map building.
 * [mikimo](https://github.com/lcmd-epfl/mikimo), an automated tool for microkinetic volcano plot building.
 * [marc](https://github.com/lcmd-epfl/marc), an automated tool to select representative conformers from a large ensemble.
