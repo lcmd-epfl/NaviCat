@@ -4,13 +4,14 @@ NaviCat: A platform for catalyst discovery
 ![NaviCat logo](./images/navicat_logo.png)
 
 ## Contents
-* [About](#about-)
-* [Packages](#packages-)
-* [Databases](#databases-)
-* [Documentation](#documentation-)
-* [Examples](#examples-)
-* [References](#references-)
-* [Acknowledgements](#acknowledgements-)
+- [NaviCat: A platform for catalyst discovery](#navicat-a-platform-for-catalyst-discovery)
+  - [Contents](#contents)
+  - [About ↑](#about-)
+  - [Packages ↑](#packages-)
+  - [Databases ↑](#databases-)
+  - [Examples ↑](#examples-)
+  - [References ↑](#references-)
+  - [Acknowledgements ↑](#acknowledgements-)
 
 ## About [↑](#about)
 
@@ -28,6 +29,7 @@ NaviCat is a platform that collects tools and databases for digital catalyst opt
 * [LKR](https://github.com/lcmd-epfl/Local_Kernel_Regression), a step-by-step demonstration of local kernel ridge regression for machine learning applications.
 * [b2r2](https://github.com/lcmd-epfl/b2r2-reaction-rep), a reaction-based representation for machine learning applications.
 * [Reaction representation of organocatalysts](https://github.com/lcmd-epfl/reaction-representation), a step-by-step demonstration of how to generate reaction representations for the prediction of selectivity in enantioselective organocatalysis. Includes a database of 754 activation energies.
+* [ReaFS](https://github.com/lcmd-epfl/reafs), [ReaFS-dive](https://github.com/lcmd-epfl/reafs-visualization), a collection of tools for the development, diagnosis, and visualization of multivariate linear regression models for chemical applications 
 
 ## Databases [↑](#databases)
 
